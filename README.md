@@ -1,6 +1,33 @@
 # 코딩테스트 스터디 (Python)  
-**조장** : " "  
-**멤버** : " ", 박민형  
+<b>Team Member</b>
+<table>
+  <tr>
+     <td align="center">
+     🐔<br />
+      <sub>
+      <b>
+      박민형<br/>
+      </b>
+      </sub>
+    </td>
+    <td align="center">
+     🐶<br />
+      <sub>
+      <b>
+      조정제<br/>
+      </b>
+      </sub>
+    </td>
+    <td align="center">
+     🐮 <br />
+      <sub>
+      <b>
+      이예지<br/>
+      </b>
+      </sub>
+    </td>
+ </tr>
+ <table>
   
 ##  스터디 진행 방식
 ***
