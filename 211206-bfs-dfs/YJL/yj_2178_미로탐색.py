@@ -17,8 +17,8 @@ for _ in range(N):
     miro.append(list(map(int, input())))
 
 # 방향을 나타냄
-dx = [-1, 0, 1, 0]
-dy = [0, -1, 0, 1]
+dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
 visited = [[0] * M for _ in range(N)]
 

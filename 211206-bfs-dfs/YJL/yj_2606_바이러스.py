@@ -21,7 +21,6 @@ for i in range(contact):
 # 4 7
 # print(graph)
 
-count = 0
 def bfs(graph, f):
     visited, need_visit = list(), list()
     need_visit.append(f)
