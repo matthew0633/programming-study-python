@@ -22,6 +22,7 @@ for i in range(n):
         # print('stack[-1]: ', stack)
         result.append("-")
     else:
+        print('num', num)
         message = False
 
 # print('stack: ', stack)

@@ -2,8 +2,8 @@ import sys
 from collections import deque
 T = int(sys.stdin.readline())
 
-dx = [-1, 0, 1, 0]
-dy = [0, -1, 0, 1] 
+dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
 def baechu(field, b,a):
     queue = deque([(b, a)])
