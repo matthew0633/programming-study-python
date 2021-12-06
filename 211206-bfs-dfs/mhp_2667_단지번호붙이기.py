@@ -1,7 +1,7 @@
 """
 - 미로탐색과 달리 각 이웃에 대해 count를 달리 해야
-- q에 append 시 q에 없는 이웃만 cnt해야
-- popleft 시 cnt 및 visited 처리
+- popleft 시 cnt+=1, visited 표시 : 이웃이 없을 경우 스스로 count 필요
+- 따라서 nr, nc에 대해 visited 표시 X ->  append 조건식에 not in q 추가
 """
 
 import sys
