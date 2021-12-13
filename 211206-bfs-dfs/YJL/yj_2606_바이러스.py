@@ -29,7 +29,7 @@ def bfs(graph, f):
         node = need_visit.pop(0)
         if node not in visited:
             visited.append(node)
-            need_visit.extend(sorted(graph[node]))
+            need_visit.extend(graph[node])
 
     return visited
 
