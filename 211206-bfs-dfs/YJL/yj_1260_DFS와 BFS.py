@@ -9,8 +9,8 @@ for i in range(m):
     graph[b].append(a)
 
 
-# print('n, m, k: ', n,m,k)
-# print('graph:', graph)
+print('n, m, k: ', n,m,k)
+print('graph:', graph)
 
 # DFS - need_visit 스택과 visited 큐, 두 개의 자료 구조를 생성
 def dfs(graph, v):
