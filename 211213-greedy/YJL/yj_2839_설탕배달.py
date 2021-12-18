@@ -12,6 +12,6 @@ while delivery >= 0:
     print('delivery:', delivery)
     delivery -= 3
     result += 1
-    
+     
 else:
     print(-1)
