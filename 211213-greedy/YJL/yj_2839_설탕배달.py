@@ -9,9 +9,9 @@ while delivery >= 0:
         result += int(delivery // 5)
         print(result)
         break
-
+    print('delivery:', delivery)
     delivery -= 3
     result += 1
-
+     
 else:
     print(-1)
