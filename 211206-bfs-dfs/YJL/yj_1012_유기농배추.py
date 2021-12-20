@@ -27,7 +27,7 @@ for i in range(T):
     M, N, K = map(int, sys.stdin.readline().split())
     field = [[0] * M for _ in range(N)]
     for j in range(K):
-        a, b = map(int, sys.stdin.readline().split())
+        a, b = map(int, sys.stdin.readline().split()) 
         field[b][a] = 1
 
     # print(field)
