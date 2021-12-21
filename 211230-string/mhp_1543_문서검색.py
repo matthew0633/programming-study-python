@@ -1,4 +1,6 @@
-
+"""
+- idea : [idx : idx+len(unit)] 만큼 len(word)-len(unit)까지 순회하며 count
+"""
 import sys
 
 inp = sys.stdin.readline

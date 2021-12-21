@@ -1,3 +1,6 @@
+"""
+- idea : Counter 사용, 개수는 내림차순, 이름은 오름차순을 sort에서 -, +로 정렬
+"""
 from collections import Counter
 import sys
 
