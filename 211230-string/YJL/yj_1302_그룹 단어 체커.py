@@ -46,7 +46,7 @@ for _ in range(n):
                 error += 1  # error에 1씩 증가.
     if error == 0:  
         group_word += 1  # error가 0이면 그룹단어
-print(group_word)
+print(group_word) 
 
 
     

@@ -13,4 +13,4 @@ for i in range(len(b) - len(a)+1):
             count += 1
     answer.append(count)
 
-print(min(answer))
+print(min(answer)) 
