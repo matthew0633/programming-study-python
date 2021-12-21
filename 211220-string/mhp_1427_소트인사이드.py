@@ -1,4 +1,5 @@
 """
+- idea : string sort 사용
 - string sorted 시 list returned 주의
 """
 import sys

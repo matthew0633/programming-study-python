@@ -20,4 +20,4 @@ for k, v in count.items():
     if v == maxVal:
         result_arr.append(k)
 
-print(sorted(result_arr)[0])
+print(sorted(result_arr)[0]) 

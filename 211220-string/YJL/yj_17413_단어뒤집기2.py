@@ -39,6 +39,5 @@ for obj in objs:
             # ta
             # tag
     cnt += 1
-     
-print(result)
 
+print(result)

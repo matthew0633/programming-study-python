@@ -26,4 +26,3 @@ for name in sorted(duplicate):
 # for i in result:
 #     print(i)
 # print(len(result))
-

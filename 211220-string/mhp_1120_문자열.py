@@ -1,5 +1,6 @@
 """
-B에서 A 단어길이 전까지만 순회 주의
+- idea : A를 B 단어 내 같은 길이의 연속된 string과 비교했을 때 최소 차이를 구함
+- B에서 A 단어길이 전까지만 순회 주의
 """
 import sys
 a, b = sys.stdin.readline().rstrip().split()
