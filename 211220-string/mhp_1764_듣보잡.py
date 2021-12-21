@@ -1,3 +1,6 @@
+"""
+- idea : set intersection 활용
+"""
 import sys
 inp = sys.stdin.readline
 n, m = map(int, inp().rstrip().split())
