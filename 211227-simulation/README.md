@@ -9,6 +9,6 @@
 |String         |    BOJ - `후보 추천하기 (1713)`    |    Silver 2    |
 |String         |    BOJ - `트럭 (13335)`    |    Silver 1    |
 |String         |    BOJ - `경쟁적 전염 (18405)`    |    Silver 1    |
-|String         |    BOJ - `봄버맨 (16918)`    |    Silver 5    |
+|String         |    BOJ - `붐버맨 (16918)`    |    Silver 1    |
 |String         |    BOJ - `기상캐스터 (10709)`     |    Silver 5    |
 |String         |    BOJ - `물병 (1052)` |    Silver 1    |
