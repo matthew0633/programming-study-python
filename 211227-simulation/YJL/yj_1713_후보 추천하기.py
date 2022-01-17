@@ -25,6 +25,7 @@ for i in range(R):
             photo[num[i]] = [1, i]
     
 ans_list = list(sorted(photo.keys()))
+# print(ans_list)
 answer = str(ans_list[0])
 for i in ans_list[1: ] :
     answer += " " + str(i)
