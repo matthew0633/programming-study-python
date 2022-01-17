@@ -27,6 +27,7 @@ trucks = list(map(int, input().split()))
 def solve():
     bridge = [0] * W
     count = 0
+    
     while trucks:
         bridge.pop(0)		# 다리에서 단위 길이만큼 이동
         x = trucks[0]			# trucks의 첫번째 트럭 무게
