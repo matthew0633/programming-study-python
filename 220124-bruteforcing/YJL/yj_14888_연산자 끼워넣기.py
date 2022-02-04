@@ -1,11 +1,10 @@
 # https://velog.io/@kimdukbae/BOJ-14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0-Python
 import sys
-input = sys.stdin.readline
 
+input = sys.stdin.readline
 N = int(input())
 num = list(map(int, input().split()))
-# 덧셈(+)의 개수, 뺄셈(-)의 개수, 곱셈(×)의 개수, 나눗셈(÷)의 개수
-op = list(map(int, input().split()))
+op = list(map(int, input().split()))  # +, -, *, //
 
 maximum = -1e9
 minimum = 1e9
