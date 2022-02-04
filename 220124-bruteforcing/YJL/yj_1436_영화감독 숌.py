@@ -25,9 +25,7 @@ count = 0
 while True:
     if "666" in str(three_six): #three_six 문자열에 666이 있다면?
         count += 1
-        # print(count)
     if count == N: #더한 카운트와 입력값이 같다면 탈출
         print(three_six) #three_six 출력
         break
     three_six += 1 #3 666이 포함된 수가 나올 때 까지 three_six를 1씩 증가 시킨다
-    # print(three_six)
