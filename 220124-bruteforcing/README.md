@@ -7,7 +7,7 @@
 |bruteforce         |    BOJ - `체스판 다시 칠하기 (1018)` |    silver 5    |
 |bruteforce         |    BOJ - `영화감독 숌 (1436)` |    silver 5    |
 |bruteforce         |    BOJ - `퇴사 (14501)`    |    silver 3    |
-|bruteforce         |    BOJ - `연산자 끼워넣기 (1158)`    |    silver 1    |
+|bruteforce         |    BOJ - `연산자 끼워넣기 (14888)`    |    silver 1    |
 |bruteforce         |    BOJ - `스타트와 링크 (14889)`    |    silver 3    |
 |bruteforce         |    BOJ - `날짜 계산 (1476)`    |    silver 5    |
 |bruteforce         |    BOJ - `차이를 최대로 (10819)`    |    silver 2    |
