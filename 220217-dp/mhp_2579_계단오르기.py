@@ -22,9 +22,9 @@ for i in range(1, n+1):
 
 dp[1] = s[1]
 
-for i in range(3, 300+1):
+for i in range(2, 300+1):
     dp[i] = max(dp[i-3]+s[i-1]+s[i], dp[i-2]+s[i])
-    if i==n:
+    if i>=n:
         break
 
 print(dp[n])
